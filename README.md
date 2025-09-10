@@ -19,7 +19,7 @@
 
 I'm a passionate **DevOps Engineer** with a strong focus on **cloud technologies** and **infrastructure automation**. I specialize in creating robust CI/CD pipelines, containerized applications, and scalable cloud infrastructure solutions.
 
-- 🔭 Currently working on **3-tier WordPress deployment** using Docker & Ansible with Jenkins CI/CD
+- 🔭 Currently Elevating Systems with AI-Powered Automation
 - 👯 Looking to collaborate on **DevOps automation** and **cloud migration** projects
 - 💬 Ask me about **Docker, Jenkins, Ansible, Terraform, AWS, Linux, Git, CI/CD**
 
